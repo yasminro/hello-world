@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d7e7b2-261b-488a-a004-2709e2a2adfb" name="Default Changelist" comment="Revert &quot;added line to remove&quot;&#10;&#10;This reverts commit 884bf6c">
+    <list default="true" id="e7d7e7b2-261b-488a-a004-2709e2a2adfb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
     </list>
@@ -29,28 +29,31 @@
         <counts>
           <entry key="iml" value="1" />
           <entry key="java" value="6" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="6" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="270" />
-          <entry key="txt" value="49" />
+          <entry key="txt" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="270" />
-          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="PLAIN_TEXT" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
+          <entry key="git.branch.merge" value="1" />
           <entry key="git.branch.rebase" value="1" />
         </counts>
       </usages-collector>
@@ -66,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="162">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -152,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542183514205" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542209948838" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../son" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -265,7 +268,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542186648583</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit1">
+      <created>1542194487904</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542194487904</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge branch 'master' of https://github.com/yasminro/hello-world&#10;&#10;# Conflicts:&#10;#&#9;src/com/example/helloworld/HelloWorld.java">
+      <created>1542206430813</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542206430813</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,11 +294,11 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20797414" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20797414" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.47428572" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.4994612" visible="true" weight="0.31542858" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4994612" weight="0.44914284" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053877" side_tool="true" weight="0.32914287" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053877" side_tool="true" visible="true" weight="0.31542858" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32914287" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Analyze Dataflow to" order="5" weight="0.32967034" />
@@ -300,6 +317,16 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -338,16 +365,25 @@
     <MESSAGE value="3" />
     <MESSAGE value="added line to remove" />
     <MESSAGE value="Revert &quot;added line to remove&quot;&#10;&#10;This reverts commit 884bf6c" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;added line to remove&quot;&#10;&#10;This reverts commit 884bf6c" />
+    <MESSAGE value="commit1" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/yasminro/hello-world&#10;&#10;# Conflicts:&#10;#&#9;src/com/example/helloworld/HelloWorld.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/yasminro/hello-world&#10;&#10;# Conflicts:&#10;#&#9;src/com/example/helloworld/HelloWorld.java" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="162">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
