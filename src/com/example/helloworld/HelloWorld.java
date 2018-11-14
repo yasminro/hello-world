@@ -6,6 +6,5 @@ public class HelloWorld {
         for ( ; i < 10; ++i){
             System.out.println("Hello, World!!");
         }
-        //remove this line!
     }
 }
