@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d7e7b2-261b-488a-a004-2709e2a2adfb" name="Default Changelist" comment="" />
+    <list default="true" id="e7d7e7b2-261b-488a-a004-2709e2a2adfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +38,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="239" />
-          <entry key="txt" value="18" />
+          <entry key="java" value="244" />
+          <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="239" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="JAVA" value="244" />
+          <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -63,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="297">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -227,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542182833516</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dima!">
+      <created>1542183751586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542183751586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -240,8 +249,8 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20797414" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32914287" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.4994612" visible="true" weight="0.6068571" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32914287" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4994612" weight="0.28685713" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053877" side_tool="true" weight="0.32914287" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32914287" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -294,7 +303,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="fgdfsg" />
-    <option name="LAST_COMMIT_MESSAGE" value="fgdfsg" />
+    <MESSAGE value="dima!" />
+    <option name="LAST_COMMIT_MESSAGE" value="dima!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
@@ -302,8 +324,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

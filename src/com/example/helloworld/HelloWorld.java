@@ -5,11 +5,6 @@ public class HelloWorld {
         int i = 0;
         for ( ; i < 10; ++i){
             System.out.println("Hello, World!!");
-            i = 8;
-            System.out.println(i);
         }
     }
-
-
-
 }
