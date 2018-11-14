@@ -6,7 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d7e7b2-261b-488a-a004-2709e2a2adfb" name="Default Changelist" comment="">
+    <list default="true" id="e7d7e7b2-261b-488a-a004-2709e2a2adfb" name="Default Changelist" comment="Revert &quot;added line to remove&quot;&#10;&#10;This reverts commit 884bf6c">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,14 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="244" />
-          <entry key="txt" value="23" />
+          <entry key="java" value="270" />
+          <entry key="txt" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="244" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="JAVA" value="270" />
+          <entry key="PLAIN_TEXT" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -65,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="135">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -124,7 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,6 +148,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,11 +237,40 @@
       <option name="project" value="LOCAL" />
       <updated>1542183751586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dima2">
+      <created>1542185418754</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542185418754</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3">
+      <created>1542185461483</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542185461483</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added line to remove">
+      <created>1542186352305</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542186352305</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;added line to remove&quot;&#10;&#10;This reverts commit 884bf6c">
+      <created>1542186648583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542186648583</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -249,8 +279,8 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20797414" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32914287" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4994612" weight="0.28685713" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.47428572" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4994612" weight="0.44914284" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053877" side_tool="true" weight="0.32914287" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32914287" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -304,19 +334,11 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="fgdfsg" />
     <MESSAGE value="dima!" />
-    <option name="LAST_COMMIT_MESSAGE" value="dima!" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="dima2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="added line to remove" />
+    <MESSAGE value="Revert &quot;added line to remove&quot;&#10;&#10;This reverts commit 884bf6c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;added line to remove&quot;&#10;&#10;This reverts commit 884bf6c" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld.iml">
@@ -324,8 +346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="135">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
